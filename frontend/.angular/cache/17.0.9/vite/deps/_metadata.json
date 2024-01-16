@@ -1,0 +1,71 @@
+{
+  "hash": "4411a423",
+  "browserHash": "1c2af477",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "36fc0445",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "d7822c9f",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "0c880cd2",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "6afefb7c",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "a611a4d8",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "da3c660b",
+      "needsInterop": false
+    },
+    "@fortawesome/angular-fontawesome": {
+      "src": "../../../../../node_modules/@fortawesome/angular-fontawesome/fesm2022/angular-fontawesome.mjs",
+      "file": "@fortawesome_angular-fontawesome.js",
+      "fileHash": "5e376b7d",
+      "needsInterop": false
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "src": "../../../../../node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
+      "file": "@fortawesome_free-solid-svg-icons.js",
+      "fileHash": "1e9bd745",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5PEEWWVZ": {
+      "file": "chunk-5PEEWWVZ.js"
+    },
+    "chunk-5P47T7SL": {
+      "file": "chunk-5P47T7SL.js"
+    },
+    "chunk-6XRINSVQ": {
+      "file": "chunk-6XRINSVQ.js"
+    },
+    "chunk-WXQBBTHF": {
+      "file": "chunk-WXQBBTHF.js"
+    },
+    "chunk-HSNDBVJ3": {
+      "file": "chunk-HSNDBVJ3.js"
+    }
+  }
+}
